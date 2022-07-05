@@ -96,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.80.101.61:8081/repository/paypal-pro-releases/</url>
+	      <url>http://3.80.101.61:8081/repository/cibc-cash-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.80.101.61:8081/repository/paypal-prod-snapshot/</url>
+	      <url>http://3.80.101.61:8081/repository/cibc-cash-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app4</finalName>
+		<finalName>maven-web-app5</finalName>
 		
 		<plugins>
 			<plugin>
